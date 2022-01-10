@@ -8,12 +8,15 @@ echo ' '
 echo 'Paste the Token'
 read xToken
 
+echo ' '
 echo 'Enter your github Username'
 read xUsername
 
+echo ' '
 echo 'Enter your repository name'
 read xRepository
 
+echo ' '
 echo 'Type Commit Message'
 read xMessage
 
