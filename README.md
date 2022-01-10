@@ -1,4 +1,4 @@
-#gitPushBash
+# gitPushBash
 Simple bash script to push projects to github.
 
 ## Getting Started
