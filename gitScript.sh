@@ -21,4 +21,4 @@ read xMessage
 git add .
 git commit -m "$xMessage"
 
-git push https://$xToken@github.com/$xUsername/$xRepository.git
+git push -u  https://$xToken@github.com/$xUsername/$xRepository.git
